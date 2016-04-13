@@ -1,0 +1,35 @@
+{
+  "name": "fs-ua-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cejixo3/fs-ua-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cejixo3/fs-ua-client/issues"
+  },
+  "homepage": "https://github.com/cejixo3/fs-ua-client#readme",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-nw-builder": "latest",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-angular-builder": "^1.0.0-beta3",
+    "grunt-angular-templates": "^1.0.3",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-jade": "~1.0.0"
+  }
+}

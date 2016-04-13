@@ -1,0 +1,15 @@
+{
+  "name": "FS-UA-Client",
+  "main": "index.html",
+  "version": "0.1.0",
+  "window": {
+    "title": "FS-UA-Client",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "min_width": 400,
+    "min_height": 200,
+    "position": "center"
+  }
+}

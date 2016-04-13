@@ -1,0 +1,28 @@
+{
+  "name": "FS UA Client",
+  "authors": [
+    "Popov Nikolay <cejixo3dr@gmail.com>"
+  ],
+  "description": "FS UA Client",
+  "main": "frontend.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.1",
+    "angular-bootstrap": "1.2.4",
+    "angular-route": "1.5.1",
+    "angular-socket-io": "^0.7.0",
+    "socket.io-client": "^1.4.5",
+    "bootstrap": "^3.3.6",
+    "Snap.svg": "snap.svg#^0.4.1"
+  }
+}
