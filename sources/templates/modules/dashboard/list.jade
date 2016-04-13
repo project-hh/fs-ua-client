@@ -1,0 +1,15 @@
+div.row
+    div.col-md-12()
+        .form-group
+            input.form-control(type="text",id="query",ng-model="query")
+hr
+div.row
+    div.col-md-2(
+    ng-animate="'animate'",
+    ng-repeat="item in results track by $index")
+        a(
+        style="display:block;",
+        ng-href="http://fs.to{{item.link}}"
+        )
+            img.img-responsive(ng-src="http://{{item.poster}}")
+            p.bg-info(ng-bind="item.title")

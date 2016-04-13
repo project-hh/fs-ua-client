@@ -6,10 +6,10 @@
     "title": "FS-UA-Client",
     "toolbar": false,
     "frame": true,
-    "width": 800,
-    "height": 500,
-    "min_width": 400,
-    "min_height": 200,
+    "width": 1024,
+    "height": 768,
+    "min_width": 1024,
+    "min_height": 768,
     "position": "center"
   }
 }
